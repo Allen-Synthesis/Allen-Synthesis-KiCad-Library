@@ -1,4 +1,4 @@
-(footprint "Eurorack Power Header" (version 20221018) (generator pcbnew)
+(footprint "eurorack-power-header-10-pin" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "eurorack power header" (at 0.2 -2.8 unlocked) (layer "F.SilkS") hide
