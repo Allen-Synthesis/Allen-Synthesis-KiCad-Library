@@ -1,11 +1,11 @@
-(footprint "eurorack-power-header-10-pin" (version 20221018) (generator pcbnew)
+(footprint "power-header-10-pin" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "eurorack power header" (at 0.2 -2.8 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "power-header-10-pin" (at 0.2 -2.8 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.75 0.75) (thickness 0.1)))
     (tstamp 4c9fdea7-ba0c-45cc-8f66-240980c37d5c)
   )
-  (fp_text value "eurorack power header" (at 0 -6.35 unlocked) (layer "F.Fab") hide
+  (fp_text value "power-header-10-pin" (at 0 -6.35 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c58960d9-4cac-4036-ad2e-1aef26946dae)
   )
