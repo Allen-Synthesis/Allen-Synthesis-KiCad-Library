@@ -28,7 +28,7 @@
       )
     )
   )
-  (model "C:/Users/roryj/Documents/KiCad/6.0/3dmodels/thonkiconn.step"
+  (model "C:/Users/roryj/Documents/Allen Synthesis/Modules/KiCad-Library/3dmodels/jack-thonkiconn-mono.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

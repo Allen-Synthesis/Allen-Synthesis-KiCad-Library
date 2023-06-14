@@ -25,7 +25,7 @@
   (pad "7" thru_hole circle (at -23.9 -4.2) (size 2.5 2.5) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 2194fffb-efb2-4804-822b-bc479e4ddd6a))
   (pad "7" thru_hole circle (at 23.9 -4.2) (size 2.5 2.5) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 4fc9de57-db53-4765-a283-4ab5d54b31ca))
   (pad "7" thru_hole circle (at 25.1 4.2) (size 2.5 2.5) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp e354d1a0-bc02-4502-986b-30666a66a9b1))
-  (model "C:/Users/roryj/Documents/KiCad/6.0/3dmodels/Potentiometer 45mm Slide Audio.x3d"
+  (model "C:/Users/roryj/Documents/Allen Synthesis/Modules/KiCad-Library/3dmodels/potentiometer-45mm-slide-audio-dual.x3d"
     (offset (xyz 0 0 2.8))
     (scale (xyz 390 390 390))
     (rotate (xyz -90 0 0))
