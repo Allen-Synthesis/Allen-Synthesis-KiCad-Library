@@ -39,7 +39,7 @@ This library can be very easily added to your own KiCad library by following the
 
 ### Adding the symbol library
 
-1. If you haven't already, follow steps 1 and 2 in [Adding the footprint library]() to clone this repository
+1. If you haven't already, follow steps 1 and 2 in [Adding the footprint library](https://github.com/Allen-Synthesis/Allen-Synthesis-KiCad-Library/blob/main/README.md#adding-the-footprint-library) to clone this repository
 
 2. Open the KiCad symbol editor  
   
