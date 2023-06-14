@@ -50,7 +50,7 @@
   (pad "1" thru_hole circle (at -2.5 7.5) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp de4ed296-9fb5-4bc2-9de6-dd78d5bf94a9))
   (pad "2" thru_hole circle (at 0 7.5) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b40b1eac-9bfc-4cbe-b825-0212be42c854))
   (pad "3" thru_hole circle (at 2.5 7.5) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 54fa6277-207f-48fc-8ba5-08367c4ef83e))
-  (model "C:/Users/roryj/Documents/KiCad/6.0/3dmodels/9mm Potentiometer.step"
+  (model "${KICAD7_3RD_PARTY}/Allen-Synthesis-KiCad-Library/3dmodels/potentiometer-9mm.step"
     (offset (xyz 0 -0.7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

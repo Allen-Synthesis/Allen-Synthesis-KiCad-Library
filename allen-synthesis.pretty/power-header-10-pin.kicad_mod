@@ -550,7 +550,7 @@
   (pad "8" thru_hole circle (at -2.54 1.27) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 681bd495-c396-44ce-92bd-4b397cd48c04))
   (pad "9" thru_hole circle (at -5.08 -1.27) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 03d88a85-11fd-47aa-954c-c318bb15294a))
   (pad "10" thru_hole circle (at -5.08 1.27) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp c5a1761e-3391-4e74-90c9-947fd66e1fc6))
-  (model "C:/Users/roryj/Documents/KiCad/6.0/3dmodels/AB2_HDR_M05-2V-S-3M.wrl"
+  (model "${KICAD7_3RD_PARTY}/Allen-Synthesis-KiCad-Library/3dmodels/power-header-10-pin.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 0.38 0.38 0.38))
     (rotate (xyz 0 0 180))
