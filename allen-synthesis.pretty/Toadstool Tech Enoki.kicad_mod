@@ -35,4 +35,9 @@
   (pad "1" thru_hole circle (at 29.21 3.81) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp cc04ce2b-971e-42d4-9bd1-177c2e8291c5))
   (pad "1" thru_hole circle (at 35.56 19.05) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 7d030d57-42ac-4ab9-9f40-d8c2573cf201))
   (pad "1" thru_hole circle (at 35.56 21.59) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 343948d7-3962-4373-b08c-adf7d4946aa9))
+  (model "${KICAD7_3RD_PARTY}/Allen-Synthesis-KiCad-Library/3dmodels/Enoki.wrl"
+    (offset (xyz 40 0 11))
+    (scale (xyz 0.393 0.393 0.393))
+    (rotate (xyz 0 180 0))
+  )
 )
