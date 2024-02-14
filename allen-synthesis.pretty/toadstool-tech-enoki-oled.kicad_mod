@@ -125,4 +125,9 @@
   (pad "x" thru_hole circle (at -16.51 17.78) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 17d9f2e3-cb0d-44c9-94ca-ec74a3def6e9))
   (pad "x" thru_hole circle (at 16.51 15.24) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp dcd1ca0c-a9a3-42af-9751-b9c2f6fff9f0))
   (pad "x" thru_hole circle (at 16.51 17.78) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp d364c376-d4c8-4090-8d54-23725a4067f1))
+  (model "${KICAD7_3RD_PARTY}/Allen-Synthesis-KiCad-Library/3dmodels/toadstool-tech-enoki-oled.wrl"
+    (offset (xyz 19 2.5 4))
+    (scale (xyz 0.394 0.394 0.394))
+    (rotate (xyz 0 180 0))
+  )
 )
