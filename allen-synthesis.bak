@@ -510,7 +510,7 @@
     )
   )
   (symbol "toadstool-tech-enoki-oled" (in_bom yes) (on_board yes)
-    (property "Reference" "enoki" (at 16.51 1.27 0)
+    (property "Reference" "enoki" (at 5.08 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "" (at 0 0 0)
